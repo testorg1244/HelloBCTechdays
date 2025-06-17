@@ -4,6 +4,9 @@
       "path": "myapp"
     },
     {
+      "path": "superapp"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
